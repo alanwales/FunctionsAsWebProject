@@ -113,7 +113,6 @@
   <ItemGroup>
     <Content Include="packages.config" />
     <Content Include="HelloHttpTrigger\function.json" />
-    <Content Include="HelloHttpTrigger\run.csx" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
